@@ -1,5 +1,9 @@
 # Student_Management_System
 
-A simple student management system to perform CRUD operations. it includes pagination and sorting
+A simple student management system to perform CRUD operations which includes pagination and sorting.
 
-Security features will be added
+It makes use of Spring data jpa at the persistence layer and Hibernate as its implementation.
+
+Mysql database is also used
+
+Security features will be added as soon as possible
